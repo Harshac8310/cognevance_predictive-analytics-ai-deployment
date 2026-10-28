@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.DS_Store
+data/processed/*
+!data/processed/.gitkeep
+models/*.joblib
+# Keep the trained model out of Git if it becomes large; attach a release artifact instead.

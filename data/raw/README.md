@@ -1,0 +1,1 @@
+The repository generates `customer_churn_demo.csv` locally via `python -m src.generate_demo_data`. The generated CSV is synthetic, not real customer data. This keeps the project runnable and avoids redistributing a dataset without confirming its license. If you use a real public dataset, document its source, license, schema mapping, and any modifications here.

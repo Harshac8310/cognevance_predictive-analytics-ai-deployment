@@ -1,0 +1,17 @@
+{
+  "model_name": "Logistic Regression",
+  "target": "churn",
+  "features": [
+    "tenure",
+    "monthly_charges",
+    "total_charges",
+    "contract",
+    "internet_service",
+    "tech_support",
+    "payment_method",
+    "paperless_billing",
+    "senior_citizen"
+  ],
+  "dataset_rows": 3000,
+  "synthetic_demo_data": true
+}
